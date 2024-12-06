@@ -1,1 +1,3 @@
 # Underwater-Communication-System-for-AUV
+
+The use of Autonomous Underwater Vehicles (AUVs) for communication is growing, but underwater communication faces challenges due to acoustic signal propagation and background noise. We propose an AI-based denoising system to enhance communication reliability. This solution utilizes deep learning models tailored for underwater acoustic signal processing, enabling real-time noise reduction. The denoised signals improve detection, decoding, and overall communication performance. The effectiveness of the approach is validated through simulations and field trials in various underwater environments.
